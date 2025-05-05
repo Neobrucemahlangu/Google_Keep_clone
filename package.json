@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1",
+    "uid": "^2.0.2"
+  }
+}
